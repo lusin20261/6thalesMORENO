@@ -1,0 +1,6 @@
+a=input("ingrese su nombre:")
+f=input("ingrese su edad:")
+b=input("ingrese su  deporte:")
+c=input("ingrese su nacionalidad:")
+d=input("ingrese su mejor amigo:")
+print("hola me llamo",a,"tengo",f,"me gusta el",b,"y soy de",c,"y mi mejor amigo es",d,)
